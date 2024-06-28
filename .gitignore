@@ -1,0 +1,9 @@
+*
+
+!main.cc
+!main-fp.cc
+!Makefile
+!test.sh
+
+!.gitignore
+!.clang-format
